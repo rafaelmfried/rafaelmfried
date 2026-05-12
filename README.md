@@ -7,6 +7,7 @@ Currently building [**unnamed-lab**](https://unnamed-lab.com) — a self-hosted 
 ### Stack I operate in production
 
 - **Go 1.25+** · Gin · pgx (no ORM) · hexagonal architecture
+- **TypeScript / Node** · NestJS · Next.js · TypeORM · CQRS
 - **Kubernetes** (k3s) · ArgoCD · cert-manager · MetalLB · Harbor
 - **PostgreSQL 18** · Redis · RabbitMQ
 - **Observability** · OpenTelemetry · Prometheus · Grafana · Loki · Tempo
