@@ -15,7 +15,7 @@ Currently building [**unnamed-lab**](https://unnamed-lab.com) — a self-hosted 
 
 ### Currently exploring
 
-- Engaging with CNCF projects — open PRs in [argo-cd](https://github.com/argoproj/argo-cd) and [minikube](https://github.com/kubernetes/minikube)
+- Engaging with CNCF projects
 - Bilingual tutorials on distributed systems & observability — [tracing](https://github.com/rafaelmfried/tracing) (PT for now, EN coming)
 
 ### Reach out
